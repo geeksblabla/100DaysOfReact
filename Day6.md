@@ -1,4 +1,4 @@
-Is the code below is correct ? if yes complete the render method to 
+Is the code below  correct ? if yes complete the render method to 
 show profile view with title DevCasa
 
 ```jsx
