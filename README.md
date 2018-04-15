@@ -7,7 +7,7 @@ This repository is orgnized by weeks. each week contains 7 days/questions!
 For more details check our [DevC group](https://www.facebook.com/groups/DevC.Casablanca/)
 ### How to contribute
 Easy peasy! check our questions format, and send us a PR!
-### Where to ask question
+### Where to ask questions
 On our [DevC group](https://www.facebook.com/groups/DevC.Casablanca/) or trigger an issue on github.
-
+---
 Thanks to all contributors :)
