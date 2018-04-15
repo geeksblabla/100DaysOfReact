@@ -9,5 +9,6 @@ For more details check our [DevC group](https://www.facebook.com/groups/DevC.Cas
 Easy peasy! check our questions format, and send us a PR!
 ### Where to ask questions
 On our [DevC group](https://www.facebook.com/groups/DevC.Casablanca/) or trigger an issue on github.
+
 ---
 Thanks to all contributors :)
