@@ -29,7 +29,9 @@ const store = {
 
 function SuperList({ name, elements }) {
   if(elements) {
-    const subElements = [];
+    const subElements = elements.map(
+      el => <SuperList {...el} />
+    );
     return (
       <React.Fragment>
         <ul>
