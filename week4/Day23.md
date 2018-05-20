@@ -1,6 +1,7 @@
 Consider the  component below, How we can implement the Card Component.
 
-Go Go https://codesandbox.io/s/m57xjr46vy
+Sandbox Example to start with : https://codesandbox.io/s/m57xjr46vy
+GO Go
 
 ```jsx
 import React from "react";
